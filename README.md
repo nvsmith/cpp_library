@@ -41,6 +41,7 @@ This is a personal reference library for my C++ programs.
 -   C++
 -   clang
 -   Visual Studio Code
+-   MacOS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,13 +51,9 @@ This is a personal reference library for my C++ programs.
 
 To run any of the programs from this repo (the `cpp_library`), you will to configure a compiler for your system. See the [Acknowledgments & References](#acknowledgments--references) section for help.
 
-I have included my MacOS Visual Studio Code configuration files for reference. I have configured my executable files to all be built in an untracked `bin` directory so I can easily manage/delete them whenever I compile my programs.
+I have included my MacOS Visual Studio Code configuration files for reference (screenshot below if you're curious to see how I organized things). I have configured my executable files to all be built in an untracked `bin` directory so I can easily manage/delete them whenever I compile my programs.
 
-![screenshot1](vscode_reference_configuration/vscode-config.png "vscode configuration")
-
-### Installation
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![screenshot](./vscode-config-referenceOnly/vscode-config.png "vscode configuration")
 
 <!-- ROADMAP -->
 

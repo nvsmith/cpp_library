@@ -3,7 +3,10 @@ using std::cin;
 using std::cout;
 
 /**
- * Prints the numbers from 5 to 1 in descending order, one number per line.
+ * Prints numbers in descending order, one number per line:
+ * 3
+ * 2
+ * 1
  *
  * @return int The exit code of the program.
  *
@@ -14,12 +17,10 @@ using std::cout;
 
 int main() {
 
-
     // Loop through each row
-    for (int row = 1; row <= 5; row ++){
+    for (int row = 1; row <= 3; row ++){
         // Print the number 6 minus the current row number
-        cout << 6 - row << "\n";
+        cout << 4 - row << "\n";
     }
-
-
+    
 }

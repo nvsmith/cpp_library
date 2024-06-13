@@ -12,7 +12,6 @@ using std::cout;
 
 int main() {
 
-
     // Initialize the variables.
     int number;
     int positiveCount = 0;
@@ -33,7 +32,5 @@ int main() {
     // Output the counts.
     cout << "Positive count: " << positiveCount << "\n";
     cout << "Negative count: " << negativeCount << "\n";
-
-
 
 }

@@ -3,13 +3,12 @@ using std::cin;
 using std::cout;
 
 /**
- * Prints a line of characters to the console.
+ * Prints a line of characters to the console:
+ * #####
  *
  * @return int The exit code of the program.
  *
  * @throws None
- * 
- * source: Think Like a Programmer Ch. 2
  */
 int main() {
 

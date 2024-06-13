@@ -3,13 +3,16 @@ using std::cin;
 using std::cout;
 
 /**
- * Prints characters in a right triangle shape or half a square 
- * or prints a grid of descending character length.
+ * Prints characters in a right triangle/half a square:
+ * #####
+ * ####
+ * ###
+ * ##
+ * # 
  * 
  * @return int The exit code of the program.
  *
  * @throws None
- * source: Think Like a Programmer Ch. 2
  */
 
 int main() {
@@ -25,6 +28,5 @@ int main() {
         // Print a new line at the end of each row
         cout << "\n";
     }
-
 
 }

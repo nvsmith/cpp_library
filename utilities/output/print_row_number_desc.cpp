@@ -17,9 +17,8 @@ using std::cout;
 
 int main() {
 
-    // Loop through each row
+    // Output each row
     for (int row = 1; row <= 3; row ++){
-        // Print the number 6 minus the current row number
         cout << 4 - row << "\n";
     }
     
